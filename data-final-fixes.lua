@@ -9,7 +9,7 @@ for _, tool in pairs(data.raw.tool) do
                 priority = "extra-high-no-scale",
                 width = tool.icon_size,
                 height = tool.icon_size,
-                scale = 16 / tool.icon_size
+                scale = tool.icon_size and ( 16 / tool.icon_size ) or 1.0
             }
         })
     end
