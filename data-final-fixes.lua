@@ -7,8 +7,9 @@ for _, tool in pairs(data.raw.tool) do
                 name = "auto_research_tool_" .. tool.name,
                 filename = tool.icon or (tool.icons[1] and tool.icons[1].icon) or nil,
                 priority = "extra-high-no-scale",
-                width = 32,
-                height = 32
+                width = tool.icon_size,
+                height = tool.icon_size,
+                scale = 16 / tool.icon_size
             }
         })
     end
