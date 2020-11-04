@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 5.2.0
+Date: 31. 10. 2020
+  Changes:
+    - Update to 1.0
+    - Update tool icon loading code using Kirazy's patch to properly support multi-layer icons.
+---------------------------------------------------------------------------------------------------
 Version: 5.1.4
 Date: 25. 5. 2020
   Changes:
