@@ -105,7 +105,7 @@ data:extend({
     {
         type = "sprite",
         name = "auto_research_prioritize_top",
-        filename = "__auto-research__/graphics/prioritize_top.png",
+        filename = "__auto-research-18__/graphics/prioritize_top.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32
@@ -113,7 +113,7 @@ data:extend({
     {
         type = "sprite",
         name = "auto_research_prioritize_bottom",
-        filename = "__auto-research__/graphics/prioritize_bottom.png",
+        filename = "__auto-research-18__/graphics/prioritize_bottom.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32
@@ -121,7 +121,7 @@ data:extend({
     {
         type = "sprite",
         name = "auto_research_deprioritize",
-        filename = "__auto-research__/graphics/deprioritize.png",
+        filename = "__auto-research-18__/graphics/deprioritize.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32
@@ -129,7 +129,7 @@ data:extend({
     {
         type = "sprite",
         name = "auto_research_delete",
-        filename = "__auto-research__/graphics/delete.png",
+        filename = "__auto-research-18__/graphics/delete.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32
@@ -137,7 +137,7 @@ data:extend({
     {
         type = "sprite",
         name = "auto_research_unknown",
-        filename = "__auto-research__/graphics/questionmark.png",
+        filename = "__auto-research-18__/graphics/questionmark.png",
         priority = "extra-high-no-scale",
         width = 32,
         height = 32
