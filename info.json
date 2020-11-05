@@ -1,9 +1,9 @@
 {
-  "name": "auto-research-18",
+  "name": "auto-research",
   "version": "5.2.0",
   "factorio_version": "1.0",
-  "title": "Auto Research (updated for 1.0)",
-  "author": "canidae, updated by SirTony",
+  "title": "Auto Research",
+  "author": "canidae, SirTony + contributors (Kirazy)",
   "description": "Automates research. Toggle GUI with Shift+T (customizable).",
-  "dependencies": ["base >= 1.0.0"]
+  "dependencies": [ "base >= 1.0.0" ]
 }

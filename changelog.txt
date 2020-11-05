@@ -5,6 +5,11 @@ Date: 31. 10. 2020
     - Update to 1.0
     - Update tool icon loading code using Kirazy's patch to properly support multi-layer icons.
 ---------------------------------------------------------------------------------------------------
+Version: 5.1.5
+Date: 04. 11. 2020
+  Changes:
+    - Backporting the tool icon code updated in mod version 5.2.0 to game version 0.18
+---------------------------------------------------------------------------------------------------
 Version: 5.1.4
 Date: 25. 5. 2020
   Changes:
